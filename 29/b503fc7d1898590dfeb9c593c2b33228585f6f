@@ -1,0 +1,29 @@
+crates/mogen-llm/src/google_oauth/client.rs
+  1fd79009516dbdb7 13-16,105-119,126,129-144,149-152,155-162
+oauth_client.example.json
+  1fd79009516dbdb7 2
+README.md
+  1fd79009516dbdb7 142-145,166-169
+crates/mogen-llm/src/google_oauth/store.rs
+  1fd79009516dbdb7 3-7,38-43,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "29b503fc7d1898590dfeb9c593c2b33228585f6f",
+  "prompts": {
+    "1fd79009516dbdb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ecbfe15-bb0b-4609-9581-aab624a033dd",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "oldschoola",
+      "messages": [],
+      "total_additions": 2757,
+      "total_deletions": 74,
+      "accepted_lines": 5351,
+      "overriden_lines": 0
+    }
+  }
+}
