@@ -1,0 +1,101 @@
+crates/mogen-llm/src/textures/plan.rs
+  1fd79009516dbdb7 84-89,116
+crates/mogen-llm/src/google_oauth/project.rs
+  1fd79009516dbdb7 1-118
+crates/mogen-llm/src/textures/run.rs
+  1fd79009516dbdb7 243-249,382,390,396,518-534,539
+crates/mogen-studio/src/app/util.rs
+  1fd79009516dbdb7 25-27
+crates/mogen/src/commands/auth.rs
+  1fd79009516dbdb7 1-231
+crates/mogen-llm/src/google_oauth/pkce.rs
+  1fd79009516dbdb7 1-101
+crates/mogen-llm/src/google_oauth/cloudcode.rs
+  1fd79009516dbdb7 1-194
+crates/mogen-studio/src/app/error_class.rs
+  1fd79009516dbdb7 115-123
+crates/mogen-studio/src/app/util/llm.rs
+  1fd79009516dbdb7 8-10,82-103,105-108,111,114-121,131,143
+crates/mogen-studio/src/app/ui_dialogs/prefs.rs
+  1fd79009516dbdb7 6-7,34,36-41,48-54,63,69,79,177,179,181-182,184,188,194-195,217-222,305,321,325-330,535-594
+crates/mogen-llm/src/lib.rs
+  1fd79009516dbdb7 26,39-43,49
+crates/mogen/src/common.rs
+  1fd79009516dbdb7 8-10,95-140
+crates/mogen-studio/src/app/util/enhance.rs
+  1fd79009516dbdb7 3,22,26
+crates/mogen-studio/src/app/oauth_ui.rs
+  1fd79009516dbdb7 1-180
+crates/mogen/src/commands/repair.rs
+  1fd79009516dbdb7 14-15,98
+crates/mogen-llm/tests/oauth_cloudcode_mock.rs
+  1fd79009516dbdb7 1-257
+crates/mogen-llm/src/google_oauth/client.rs
+  1fd79009516dbdb7 1-69
+README.md
+  1fd79009516dbdb7 121-153
+crates/mogen-studio/src/app.rs
+  1fd79009516dbdb7 29,211-220,463-464,666
+crates/mogen/src/commands/generate.rs
+  1fd79009516dbdb7 11-12,49,59
+crates/mogen-llm/src/gemini.rs
+  1fd79009516dbdb7 6-14,29-30,55-77,93,98,104-141,160-162,164-167,169-215,218-245,247-250,252-253,255-303,336-337,339-341,348-353,377,387-406,531-540,546,752-792
+crates/mogen-llm/src/google_oauth/server.rs
+  1fd79009516dbdb7 1-251
+crates/mogen-studio/src/settings.rs
+  1fd79009516dbdb7 8-92,215-218,222-228,328-337,355-364,442-452,454,457-461,463-469,492-495,497-498,500-501,503-506,510-511,513-514,519-521,581-586,734-744
+crates/mogen/src/commands/mod.rs
+  1fd79009516dbdb7 2
+crates/mogen/src/commands/bench.rs
+  1fd79009516dbdb7 7-8,11,23
+crates/mogen/src/commands/modify.rs
+  1fd79009516dbdb7 13-14,70
+crates/mogen-llm/Cargo.toml
+  1fd79009516dbdb7 20-24
+crates/mogen-llm/src/google_oauth/flow.rs
+  1fd79009516dbdb7 1-282
+crates/mogen/src/commands/textures.rs
+  1fd79009516dbdb7 5,7,10,72-78,80-93
+crates/mogen/src/main.rs
+  1fd79009516dbdb7 13,76-130,133-139,423-428,497,647,665
+crates/mogen-llm/tests/oauth_refresh_mock.rs
+  1fd79009516dbdb7 1-177
+crates/mogen-llm/src/provider.rs
+  1fd79009516dbdb7 15,20-28,205-209,221-233,388-400
+crates/mogen-studio/src/app/llm.rs
+  1fd79009516dbdb7 16,282-283,288-289,318,418-435,437,441,444-446,450,455-461,513-516,518-530,607
+crates/mogen-studio/src/app/ask.rs
+  1fd79009516dbdb7 98-99,102-103,128,166,171
+crates/mogen-llm/src/google_oauth/store.rs
+  1fd79009516dbdb7 1-212
+crates/mogen-llm/src/google_oauth/token.rs
+  1fd79009516dbdb7 1-184
+crates/mogen-llm/src/google_oauth/mod.rs
+  1fd79009516dbdb7 1-103
+crates/mogen/src/commands/animate.rs
+  1fd79009516dbdb7 12-13,67
+crates/mogen-studio/src/app/util/textures_run.rs
+  1fd79009516dbdb7 70
+crates/mogen-llm/src/image.rs
+  1fd79009516dbdb7 9-10,31-35,42-43,45-97,99,102-107,112,119,152-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "7b6c3eef8540eb0ad0e01471438a9e0028383148",
+  "prompts": {
+    "1fd79009516dbdb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ecbfe15-bb0b-4609-9581-aab624a033dd",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "oldschoola",
+      "messages": [],
+      "total_additions": 6250,
+      "total_deletions": 375,
+      "accepted_lines": 6110,
+      "overriden_lines": 0
+    }
+  }
+}
