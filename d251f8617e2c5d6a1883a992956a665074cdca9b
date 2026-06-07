@@ -1,0 +1,101 @@
+crates/mogen/src/commands/repair.rs
+  1728d972bba1c3b5 63,192
+crates/mogen/src/commands/generate.rs
+  1728d972bba1c3b5 150
+crates/mogen-registry/src/cache.rs
+  1728d972bba1c3b5 1-137
+crates/mogen-dsl/src/lib.rs
+  1728d972bba1c3b5 13,18-21
+crates/mogen-moghub-client/src/error.rs
+  1728d972bba1c3b5 1-44
+.github/workflows/docs.yml
+  1728d972bba1c3b5 30-34,48-84
+crates/mogen-dsl/src/module/imports.rs
+  1728d972bba1c3b5 2-10,15,21-22,42-54,63-93,106,121-122,125,130,134-147,149-194,201-203,205-218,221-298,300-310,312-315,317-318,321-339,341-356,358-362,365-387,389-393,396-413
+crates/mogen-geom/src/lib.rs
+  1728d972bba1c3b5 3,5,18,20,32,34-36,66
+crates/mogen-moghub-client/tests/client.rs
+  1728d972bba1c3b5 1-206
+crates/mogen-geom/src/csg.rs
+  1728d972bba1c3b5 2-6,43
+crates/mogen-studio/src/app/moghub.rs
+  1728d972bba1c3b5 1-130
+crates/mogen/src/commands/mod.rs
+  1728d972bba1c3b5 8
+crates/mogen-dsl/src/module/loader.rs
+  1728d972bba1c3b5 1-164
+crates/mogen-dsl/src/module.rs
+  1728d972bba1c3b5 22,32-35
+crates/mogen-dsl/src/lower.rs
+  1728d972bba1c3b5 25-28,122,124-141,155-160
+crates/mogen-registry/src/client.rs
+  1728d972bba1c3b5 1-50
+crates/mogen/src/commands/relock.rs
+  1728d972bba1c3b5 1-70
+crates/mogen/src/main.rs
+  1728d972bba1c3b5 19,169-177,179-181,535-540,542,544
+crates/mogen-core/src/diagnostic.rs
+  1728d972bba1c3b5 30-37,42-48,52-58,65-67
+crates/mogen-studio/src/app/ui_menu.rs
+  1728d972bba1c3b5 518-528,650-651
+crates/mogen/src/commands/animate.rs
+  1728d972bba1c3b5 185
+crates/mogen-validate/src/render.rs
+  1728d972bba1c3b5 29-32,37
+crates/mogen-registry/src/loader.rs
+  1728d972bba1c3b5 1-497
+crates/mogen-registry/src/refs.rs
+  1728d972bba1c3b5 1-230
+crates/mogen-studio/src/app/types.rs
+  1728d972bba1c3b5 343-346
+crates/mogen/tests/registry_build.rs
+  1728d972bba1c3b5 1-174
+crates/mogen-moghub-client/src/dtos.rs
+  1728d972bba1c3b5 1-350
+crates/mogen/src/commands/modify.rs
+  1728d972bba1c3b5 194
+crates/mogen-studio/src/app/ui_dialogs.rs
+  1728d972bba1c3b5 16
+crates/mogen-moghub-client/src/lib.rs
+  1728d972bba1c3b5 1-342
+crates/mogen-moghub-client/src/registry.rs
+  1728d972bba1c3b5 1-82
+crates/mogen-registry/src/lib.rs
+  1728d972bba1c3b5 1-34
+crates/mogen/src/commands/textures.rs
+  1728d972bba1c3b5 244
+crates/mogen/src/commands/build.rs
+  1728d972bba1c3b5 2,6-13,18-35,78-116
+crates/mogen-registry/src/lockfile.rs
+  1728d972bba1c3b5 1-246
+crates/mogen-studio/src/app/ui_dialogs/community.rs
+  1728d972bba1c3b5 1-342
+crates/mogen-wasm/src/lib.rs
+  1728d972bba1c3b5 3-51,55-56,63-66,97-101,104-159,164,166-167,172-175,178-183,186-190,193-196,200-210,212,215,219,224,228-231,236,239,244-309,311-349,352-353,355-368
+crates/mogen-studio/src/app.rs
+  1728d972bba1c3b5 29,184-188,467,877
+crates/mogen-validate/src/ast_checks/mod.rs
+  1728d972bba1c3b5 45-52,71-86
+crates/mogen-studio/src/settings.rs
+  1728d972bba1c3b5 194-199,969-974
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "d251f8617e2c5d6a1883a992956a665074cdca9b",
+  "prompts": {
+    "1728d972bba1c3b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5a68f1dd-bba2-47f7-8f1f-fdd78fc9db56",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "oldschoola",
+      "messages": [],
+      "total_additions": 4770,
+      "total_deletions": 289,
+      "accepted_lines": 4764,
+      "overriden_lines": 0
+    }
+  }
+}
